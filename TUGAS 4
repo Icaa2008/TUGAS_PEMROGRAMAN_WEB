@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIODATA DAN FEEDBACK</title>
+</head>
+<body>
+    <H1>Biodata saya</H1>
+    <table border="1"><thead>
+        <tr>
+            <th>Nama</th>
+            <td>Azzahra Chesta Raisya</td>
+             
+        </tr> 
+    </thead>
+    <tbody>
+        <tr>
+            
+            <th>Tempat Tanggal Lahir</th>
+            <td>Nganjuk, 20 Oktober 2008</td>
+            
+        </tr>
+            <th>Alamat</th>
+            <td>Tanjungrejo, Loceret</td>
+        <tr>
+
+        </tr>
+        <hr>
+    </tbody>
+    </table>
+
+    <h1>FORMULIR PENDAFTARAN</h1>
+    <form action="/submit-form" method="post">
+        <label for="Nama">Nama lengkap:</label><br>
+        <input type="text" id="nama" name="nama" placeholder="Masukkan Nama Anda"><br><br>
+
+        <label for="email">Email:</label><br>
+         <input type="email" id="email" name="email" placeholder="contoh@domain. com"><br><br>
+
+         <label for="Komentar/saran anda">silahkan beri komentar dan saran anda disini</label><br>
+          <textarea id="pesan" name="pesan" rows="4" cols="50" placeholder="tulis pesan anda disini"></textarea><br><br>
+
+          <label for="Apakah ada puas dengan materi ini?">Apakah ada puas dengan materi ini?</label><br>
+          <input type="radio" id="ya" name="iya" value="iya">
+          <label for="iya">iya</label><br>
+          <input type="radio" id="tidak" name="tidak" value="tidak">
+          <label for="tidak">tidak</label><br><Br>
+
+          <label for="yang ingin dipelajari selanjutnya"> yang ingin anda pelajari selanjutnya:</label><br>
+          <input type="checkbox"  id="PYTHON" name="minat[]" value="PHYTON">
+          <label for="PYTHON">PYTHON</label>
+          <input type="checkbox"  id="desain" name="minat[]" value="Desain">
+          <label for="JAVA SCRIPT">JAVA SCRIPT</label>
+          <input type="checkbox"  id="JAVA SCRIPT" name="minat[]" value="Menulis">
+          <label for="CSS">CSS</label><br><br>
+
+          <input type="submit" value="Kirim Feedback">
+    </form>
+          
+
+</body>
+</html>

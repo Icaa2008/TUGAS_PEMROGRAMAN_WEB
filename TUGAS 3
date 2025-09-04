@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>galeri_dan_kontak.html.</title>
+</head>
+<body>
+    <center><h1>GALERI FOTO SEDERHANA</h1></center>
+    <center><img src="taehyung photo.jpeg" alt="KIM TAEHYUNG BTS" width="768" height="461"></center>
+    <p>
+        foto tersebut adalah foto dari <strong>Kim Taehyung</strong> dari BTS. 
+        dia adalah bias saya, ditahun ini dia berusia <strong>29 tahun</strong> 
+        dia baru saja menyelesaikan wajib militernya pada awal juni tahun ini
+        
+        taehyung atau yang sering dipanggil V ini berkontribusi aktif pada 
+        seluruh project bts yang mendapat penghargaan tingkat dunia
+        seperti Dynamite, Butter, Permission to dance, boy with luv 
+        life goes on dan masih banyak lagi, untuk karya solonya Kim Taehyung Dari BTS memiliki banyak sekali songlist
+        yang tak kalah terkenalnya dengan lagu lagu BTS, beberapa lagu solonya seperti <b>Inner Child, Love me again, Winter Bear, Singularity, Rainy days</b> dan masih banyak lagi.
+        lagunya yang paling saya favoritkan adalah Winter Bear yang rilis pada tahun 2019 lalu <br><br>
+    </p>
+
+    <center><img src="bts.jpg" alt="bts" width="768" height="461"></center>
+    <p>
+        Gambar yang ada diatas adalah <strong>BTS</strong>
+        boyband dari korea selatan yang debut pada tahun 2013 lalu 
+        karya pertamanya yaitu sebuah lagu yang berjudul no more dream 
+        bts merupakan boyband yang berada dibawah naungan sebuah agensi bernama bighit yang sekarang menjadi HYBE entertaiment 
+        bts merupakan idol koreayang menorehkan banyak prestasi, dengan penghargaan yang tidak pernah berhenti mereka dapatkan 
+        beberapa penghargaan bergengsi yang mereka menangkan yaitu 
+        American Music Awards (termasuk Artist of the Year), Billboard Music Awards (menjadi grup dengan kemenangan terbanyak) 
+        Japan Golden Disc Awards, dan IFPI Global Recording Artist. 
+        Mereka juga menerima penghargaan Van Fleet Award atas kontribusinya dalam 
+        hubungan Korea Selatan-AS dan meraih nominasi Grammy Awards.
+    </p>
+    <hr>
+    <h1>HUBUNGI KAMI</h1>
+    <P>kunjungi web resmi tentang BTS : <a href= "https://ibighit.com/bts/eng/profile/" target="_blank">https://ibighit.com/bts/eng/profile/</a> tentang BTS </P>
+    <P>Kembali ke profil saya : <a href="TUGAS 1" target="_blank">profil saya</a></P>
+
+
+
+
+</body>
+</html> 

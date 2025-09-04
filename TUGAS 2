@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hobi_dan_makanan.html.</title>
+</head>
+<body>
+    <h1>Hobiku</h1>
+    <P>
+        Hobiku adalah <i><b>membaca novel</b></i> <br>
+        awalnya aku suka membaca novel di handphone, lama kelamaan aku merasa nyaman dan tertarik untuk membaca lebih banyak lagi, akhirnya aku mulai mengikuti pre-order novel, selain itu aku juga sering meminjam novel di perpustakaan kota
+        rasanya sangat mengasyikkan dan candu, saat aku membaca sebuah novel, rasanya akan sangat aneh jika aku tidak menghabiskan halamannya saat itu juga, tetapi terkadang hal itu membuatku menghabiskan banyak waktu dan melupakan hal yang lainnya.
+        akhirnya aku memutuskan untuk mencari hobi baru, lalu aku tertarik untuk bernyanyi, hingga sekarang aku juga <b>suka menyanyi</b>, ya meskipun suaraku tidak bagus, namun menyanyi bisa dilakukan bersamaan dengan melakukan hal lainnya
+        jadi itu tidak terlalu membuang banyak waktu seperti saat aku membaca novel, tapi meskipun sudah menemukan hal ylain yang aku suka sekarang, aku tetap lebih suka dan sering membaca novel, meski tidak sesering dulu, sekarang aku juga sadar bahwa hobi dan suka itu tidak bisa disamakan.
+        nyatanya aku tetap lebih suka membaca novel daripada menyanyi
+    </P>
+    <hr> 
+    <h2>Makanan favorit</h2>
+    <ul>
+       <li>martabak manis</li> 
+       <li>nasi padang</li>
+       <li>donat</li>
+    </ul>
+    <p>
+        RESEP MARTABAK MANIS <br>
+    </p>
+    <b>Bahan dan alat</b> <br>
+    <ol>
+        <li><sup>1</sup>/<sub>4</sub> kg tepung terigu</li>
+        <li>1 butir telur</li>
+        <li>2 sdm susu bubuk (bisa di-skip)</li>
+        <li>3,5 sdm gula pasir</li>
+        <li>2 sdm minyak sayur</li>
+        <li><sup>1</sup>/<sub>2</sub> sdt fermipan atau ragi instan</li>
+        <li><sup>1</sup>/<sub>2</sub> sdt baking powder</li>
+        <li><sup>1</sup>/<sub>2</sub> sdt soda kue</li>
+        <li>350 mL air hangat</li>
+        <li>Sejumput garam</li>
+        <li>Vanili secukupnya</li>
+    </ol>
+    <b>Cara Membuat</b> <br>
+    <ol>
+        <li>Campurkan tepung terigu, gula, fermipan, susu bubuk, garam, vanili, dan air hingga rata dan tidak menggumpal.</li>
+        <li>diamkan adonan selama 45 menit</li>
+        <li>campur jadi satu baking powder, baking soda dan air, aduk rata dan masukkan ke adonan martabak</li>
+        <li>panaskan teflon lalu tuang adonan martabak, masak hingga matang. setelah matang olesi dengan margarin</li>
+        <li>beri topping lalu potong dan sajikan</li>
+    </ol>
+</body>
+</html>
