@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects | Portfolio</title>
+
+  <!-- ICONS -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Poppins, sans-serif;
+    }
+
+    body {
+      background: #f6f6ff;
+      color: #333;
+    }
+
+    /* ===== HEADER ===== */
+    header {
+      width: 100%;
+      padding: 20px 10%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: white;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+      position: fixed;
+      top: 0;
+      z-index: 100;
+    }
+
+    .logo {
+      color: #6c63ff;
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    nav a {
+      margin-left: 18px;
+      text-decoration: none;
+      color: #444;
+      transition: 0.3s;
+    }
+
+    nav a:hover {
+      color: #6c63ff;
+    }
+
+    /* ===== PROJECT SECTION ===== */
+    .projects {
+      padding: 140px 10% 70px;
+      text-align: center;
+    }
+
+    .projects h2 {
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .highlight {
+      color: #6c63ff;
+      font-weight: bold;
+    }
+
+    .projects p {
+      color: #555;
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+
+    /* ===== PROJECT CARDS ===== */
+    .project-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 25px;
+      margin-top: 20px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.07);
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    .card img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+
+    .card h3 {
+      font-size: 20px;
+      margin-bottom: 8px;
+      color: #6c63ff;
+    }
+
+    .card p {
+      font-size: 15px;
+      color: #555;
+      margin-bottom: 12px;
+    }
+
+    .btn-preview {
+      display: inline-block;
+      text-decoration: none;
+      padding: 10px 18px;
+      border-radius: 6px;
+      background: #6c63ff;
+      color: white;
+      font-size: 15px;
+      transition: 0.3s;
+    }
+
+    .btn-preview:hover {
+      background: #4e48c8;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header>
+    <h1 class="logo">Azzahra Chesta Raisya</h1>
+    <nav>
+      <a href="home.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="projects.html" style="color:#6c63ff;font-weight:600;">Projects</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <!-- ===== PROJECT SECTION ===== -->
+  <section class="projects">
+    <h2>My <span class="highlight">Projects</span> 📁</h2>
+    <p> berikut ini merupakan beberapa projek yang pernah saya kerjakan di kelas 11</p>
+
+    <div class="project-container">
+
+      <!-- CARD 1 -->
+      <div class="card">
+        <img src="spongebob.png" alt="Project Thumbnail">
+        <h3>game plaformer sederhana</h3>
+        <p>game platformersederhana yang saya buat di gdevelop</p>
+      </div>
+
+      <!-- CARD 2 -->
+      <div class="card">
+        <img src="crd.png" alt="Project Thumbnail">
+        <h3>sampul tema pahlawan</h3>
+        <p>ini adalah proses saya menyelesaikan sebuah desain grafis yang bertema pahlawan</p>
+      </div>
+
+      <!-- CARD 3 -->
+      <div class="card">
+        <img src="PANCAKE.png" alt="Project Thumbnail">
+        <h3>3D modeling</h3>
+        <p>ini adalah hasil 3d saya yang saya buat di blender dengan sketsa saya sendiri</p>
+      </div>
+
+      <!-- CARD 3 -->
+      <div class="card">
+        <img src="bts.png" alt="Project Thumbnail">
+        <h3>website</h3>
+        <p>screenshot web tersebut adalah website yang pertama kali saya buat saat saya belajar css</p>
+      </div>
+
+
+    </div>
+  </section>
+
+</body>
+</html>
